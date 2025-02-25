@@ -1,8 +1,20 @@
-# React + Vite
+🧾 Invoice Manager
+Aplicación de facturación desarrollada con React y Hooks para gestionar productos y calcular totales dinámicamente.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Características
+✅ Agregar productos con nombre, precio y cantidad.
+✅ Eliminar productos de la factura.
+✅ Cálculo automático del total.
+✅ Diseño limpio y responsivo.
 
-Currently, two official plugins are available:
+🛠 Tecnologías utilizadas
+React con Hooks (useState)
+CSS / Bootstrap (o lo que usaste)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📦 Instalación y ejecución
+Clonar el repositorio:
+git clone https://github.com/FooandV/React-Invoice-Manager.git
+cd React-Invoice-Manager
+
+
+
