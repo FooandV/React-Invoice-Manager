@@ -1,4 +1,4 @@
-🧾 Invoice Manager
+## 🧾 Invoice Manager
 Aplicación de facturación desarrollada con React y Hooks para gestionar productos y calcular totales dinámicamente.
 
 🚀 Características
