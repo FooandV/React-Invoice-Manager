@@ -3,6 +3,7 @@ Aplicación de facturación desarrollada con React y Hooks para gestionar produc
 
 🚀 Características
 ✅ Agregar productos con nombre, precio y cantidad.
+
 ✅ Eliminar productos de la factura.
 ✅ Cálculo automático del total.
 ✅ Diseño limpio y responsivo.
